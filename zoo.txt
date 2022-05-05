@@ -1,0 +1,28 @@
+adjacency diagrams
+arc diagram
+bioinformatics
+brushing-and-linking
+cartograms
+chloropleth map
+circle-packing layouts
+dendrogram
+dorling cartogram
+enclosure diagrams
+Flow Maps
+force-directed layouts
+graduated symbol map
+icicle tree layout
+indented trees
+index chart
+macro-observations
+mirrors
+node-link diagram
+parallel coordinates
+Reingold-Tilford
+seriation
+small multiples
+squarified treemaps
+stacked graphs
+sunburst layout
+treemap layout
+Voronoi and jigsaw treemaps
